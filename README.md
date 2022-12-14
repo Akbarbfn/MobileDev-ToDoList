@@ -1,3 +1,2 @@
 # todolist
-Membuat Applikasi TODOLIST menggunakan React Native
-Test
+Membuat Applikasi sederhana berjudul  "TODOLIST" menggunakan React Native
